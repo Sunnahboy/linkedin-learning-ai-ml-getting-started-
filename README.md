@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/382663a4-9865-4993-b6cf-b6d599edadf2)
+
 # 🎬 Linear Regression: Predicting Movie Profit
 
 This project is a beginner-friendly implementation of **Linear Regression** using Python, Jupyter Notebook, and Pandas. It predicts **movie profit** based on **cost and revenue data**, using a real-world dataset.
